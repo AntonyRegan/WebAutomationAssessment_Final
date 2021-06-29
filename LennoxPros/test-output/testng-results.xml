@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73123" started-at="2021-06-29T14:35:41 IST" finished-at="2021-06-29T14:36:55 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="73123" started-at="2021-06-29T14:35:41 IST" finished-at="2021-06-29T14:36:55 IST">
+      <class name="testcases.PLP_TC_01">
+        <test-method status="PASS" signature="initializeReport()[pri:0, instance:testcases.PLP_TC_01@74650e52]" name="initializeReport" is-config="true" duration-ms="3278" started-at="2021-06-29T14:35:38 IST" finished-at="2021-06-29T14:35:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeReport -->
+        <test-method status="PASS" signature="initializeTestModule()[pri:0, instance:testcases.PLP_TC_01@74650e52]" name="initializeTestModule" is-config="true" duration-ms="1918" started-at="2021-06-29T14:35:41 IST" finished-at="2021-06-29T14:35:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestModule -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.PLP_TC_01@74650e52]" name="beforeMethod" is-config="true" duration-ms="16836" started-at="2021-06-29T14:35:43 IST" finished-at="2021-06-29T14:36:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase()[pri:0, instance:testcases.PLP_TC_01@74650e52]" name="testCase" duration-ms="22501" started-at="2021-06-29T14:36:00 IST" finished-at="2021-06-29T14:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.PLP_TC_01@74650e52]" name="afterMethod" is-config="true" duration-ms="1019" started-at="2021-06-29T14:36:23 IST" finished-at="2021-06-29T14:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.PLP_TC_01@74650e52]" name="afterSuite" is-config="true" duration-ms="1021" started-at="2021-06-29T14:36:55 IST" finished-at="2021-06-29T14:36:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.PLP_TC_01 -->
+      <class name="testcases.PLP_TC_02">
+        <test-method status="PASS" signature="initializeTestModule()[pri:0, instance:testcases.PLP_TC_02@15d0c81b]" name="initializeTestModule" is-config="true" duration-ms="142" started-at="2021-06-29T14:36:24 IST" finished-at="2021-06-29T14:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestModule -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.PLP_TC_02@15d0c81b]" name="beforeMethod" is-config="true" duration-ms="10269" started-at="2021-06-29T14:36:24 IST" finished-at="2021-06-29T14:36:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase()[pri:0, instance:testcases.PLP_TC_02@15d0c81b]" name="testCase" duration-ms="19393" started-at="2021-06-29T14:36:34 IST" finished-at="2021-06-29T14:36:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.PLP_TC_02@15d0c81b]" name="afterMethod" is-config="true" duration-ms="917" started-at="2021-06-29T14:36:54 IST" finished-at="2021-06-29T14:36:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.PLP_TC_02 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
